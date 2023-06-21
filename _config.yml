@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: RBC iCrew User Guide
+description: A hands on how to for RBC captains and members to use iCrew
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://wdrescher.github.io/rbc-icrew-doc.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
