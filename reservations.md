@@ -91,5 +91,3 @@ Optionally click `Check out onto the water immediately` to check out your boat a
 
 <img src="images/reservations/screenshot-14.png">
 
-
-<img src="images/reservations/screenshot-1.png">
